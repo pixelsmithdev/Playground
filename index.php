@@ -11,6 +11,7 @@
 	</head>
 	<body>
 		
+		new stuff
 		
 		<script src="/assets/js/global.js"></script>
 	</body>
